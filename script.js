@@ -10,7 +10,7 @@ comment*/
 
 //let var const
 let person;
-person="fida";
+person="fida sahooda";
 console.log(person);
 
 //hoisting
